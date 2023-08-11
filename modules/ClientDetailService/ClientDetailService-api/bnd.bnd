@@ -1,0 +1,10 @@
+Bundle-Name: ClientDetailService-api
+Bundle-SymbolicName: com.adj.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	com.adj.exception,\
+	com.adj.model,\
+	com.adj.service,\
+	com.adj.service.persistence
+-check: EXPORTS
+-includeresource: META-INF/service.xml=../ClientDetailService-service/service.xml

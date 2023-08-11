@@ -1,0 +1,4 @@
+Bundle-Name: UploadFile
+Bundle-SymbolicName: com.adjecti.upload
+Bundle-Version: 1.0.0
+Export-Package: com.adjecti.upload.constants

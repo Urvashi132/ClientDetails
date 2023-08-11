@@ -1,0 +1,4 @@
+Bundle-Name: Contact-rest-api
+Bundle-SymbolicName: com.adj.rest.api
+Bundle-Version: 1.0.0
+Liferay-Configuration-Path: /configuration

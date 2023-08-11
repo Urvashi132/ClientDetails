@@ -1,0 +1,10 @@
+Bundle-Name: Contact-api
+Bundle-SymbolicName: com.adj.contact.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	com.adj.contact.exception,\
+	com.adj.contact.model,\
+	com.adj.contact.service,\
+	com.adj.contact.service.persistence
+-check: EXPORTS
+-includeresource: META-INF/service.xml=../Contact-service/service.xml

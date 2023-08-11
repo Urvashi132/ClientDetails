@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+
+<model-hints>
+	<model name="com.adj.model.ClientDetail">
+		<field name="uuid" type="String" />
+		<field name="clientId" type="long" />
+		<field name="groupId" type="long" />
+		<field name="companyId" type="long" />
+		<field name="userId" type="long" />
+		<field name="userName" type="String" />
+		<field name="createDate" type="Date" />
+		<field name="modifiedDate" type="Date" />
+		<field name="name" type="String" />
+		<field name="email" type="String" />
+		<field name="confirmEmail" type="String" />
+		<field name="age" type="String" />
+		<field name="phoneNo" type="String" />
+		<field name="aadharCard" type="String" />
+	</model>
+</model-hints>
